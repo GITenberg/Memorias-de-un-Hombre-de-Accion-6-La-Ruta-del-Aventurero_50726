@@ -1,4 +1,8 @@
 _repo: Memorias-de-un-Hombre-de-Accion-6-La-Ruta-del-Aventurero_50726
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 50726-h/images/cover.jpg
 creator:
   author:
     agent_name: Baroja, Pío
@@ -13,6 +17,8 @@ creator:
     - http://es.wikipedia.org/wiki/Pío_Baroja
     - http://en.wikipedia.org/wiki/P%C3%ADo_Baroja
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/50726#Memorias-de-un-Hombre-de-Accion-6-La-Ruta-del-Aventurero
 gutenberg_issued: '2015-12-20'
 gutenberg_type: Text
 identifiers:
