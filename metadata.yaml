@@ -27,5 +27,7 @@ language: es
 publisher: Project Gutenberg
 rights: Public domain in the USA.
 rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
 title: 'Memorias de un Hombre de Acción: #6 La Ruta del Aventurero'
 url: http://www.gutenberg.org/ebooks/50726
